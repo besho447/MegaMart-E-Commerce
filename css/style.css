@@ -378,6 +378,11 @@ position: relative;
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 767px) {
+  .Electronics .hold .box img {
+    width: 100%;
+  }
+}
 .Electronics .slide {
   justify-content: center;
 }
